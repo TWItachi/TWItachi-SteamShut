@@ -116,7 +116,7 @@ Uses Windows native shutdown command: `shutdown -s -t 0`
 
 Bilibili: [https://space.bilibili.com/23839618](https://space.bilibili.com/23839618)
 
-Linux.do: [https://linux.do/u/executi0n/]
+Linux.do: [https://linux.do/u/executi0n/](https://linux.do/u/executi0n/)
 
 ---
 
